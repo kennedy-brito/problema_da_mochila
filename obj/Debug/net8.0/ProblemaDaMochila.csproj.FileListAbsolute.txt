@@ -1,0 +1,14 @@
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\bin\Debug\net8.0\ProblemaDaMochila.exe
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\bin\Debug\net8.0\ProblemaDaMochila.deps.json
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\bin\Debug\net8.0\ProblemaDaMochila.runtimeconfig.json
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\bin\Debug\net8.0\ProblemaDaMochila.dll
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\bin\Debug\net8.0\ProblemaDaMochila.pdb
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\obj\Debug\net8.0\ProblemaDaMochila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\obj\Debug\net8.0\ProblemaDaMochila.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\obj\Debug\net8.0\ProblemaDaMochila.AssemblyInfo.cs
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\obj\Debug\net8.0\ProblemaDaMochila.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\obj\Debug\net8.0\ProblemaDaMochila.dll
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\obj\Debug\net8.0\refint\ProblemaDaMochila.dll
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\obj\Debug\net8.0\ProblemaDaMochila.pdb
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\obj\Debug\net8.0\ProblemaDaMochila.genruntimeconfig.cache
+C:\Users\willi\source\repos\c#\ProblemaDaMochila\obj\Debug\net8.0\ref\ProblemaDaMochila.dll
